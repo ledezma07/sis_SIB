@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\SIS_2420\sis_SIB\sis_SIB\bin\Debug\sis_SIB.exe.config
+C:\Users\HP\Desktop\SIS_2420\sis_SIB\sis_SIB\bin\Debug\sis_SIB.exe
+C:\Users\HP\Desktop\SIS_2420\sis_SIB\sis_SIB\bin\Debug\sis_SIB.pdb
+C:\Users\HP\Desktop\SIS_2420\sis_SIB\sis_SIB\obj\Debug\sis_SIB.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\SIS_2420\sis_SIB\sis_SIB\obj\Debug\sis_SIB.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\SIS_2420\sis_SIB\sis_SIB\obj\Debug\sis_SIB.Properties.Resources.resources
+C:\Users\HP\Desktop\SIS_2420\sis_SIB\sis_SIB\obj\Debug\sis_SIB.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\SIS_2420\sis_SIB\sis_SIB\obj\Debug\sis_SIB.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\SIS_2420\sis_SIB\sis_SIB\obj\Debug\sis_SIB.exe
+C:\Users\HP\Desktop\SIS_2420\sis_SIB\sis_SIB\obj\Debug\sis_SIB.pdb
